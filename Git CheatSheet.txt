@@ -1,0 +1,18 @@
+cd Desktop
+cd GIT
+cd html
+cd mike
+git pull
+git status
+git add .
+git commit -am "push #exporttocert"
+git push origin master
+
+git init
+
+git commit -m "First commit"
+
+git push -u origin master
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
+
+
